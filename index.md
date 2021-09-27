@@ -1,4 +1,4 @@
-## Drone localisation
+## Indoor Mapping and Localisation
 
 ## Test
 
