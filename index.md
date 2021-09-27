@@ -4,6 +4,7 @@
 
 ### People
 <a href="./people">Go to next page</a>
+[People]("./people")
 
 You can use the [editor on GitHub](https://github.com/SibiAkkash/Drone-autonomous-navigation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
